@@ -1,2 +1,2 @@
 # Mini-Projects
-Console based applications
+Console Based Applications
